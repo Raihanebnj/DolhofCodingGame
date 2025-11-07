@@ -94,3 +94,35 @@ Right x1
 Forward x10
 Left x1
 Forward x10
+
+## 👨‍💻 Code Structuur
+
+| Folder | Inhoud |
+|--------|--------|
+| `Assets/Scripts` | Code voor player movement & command execution |
+| `Assets/Tilemaps` | Maze en tiles |
+| `Assets/UI` | Gebruikersinterface elementen |
+| `Build/` | Speelbare .exe bestand |
+
+De **Library, Temp, Obj, Build** mappen worden **niet** meegestuurd naar GitHub (Unity genereert deze zelf).
+
+---
+
+## 📦 Technologieën
+
+- Unity (C#)
+- Tilemap systeem
+- UI met TextMeshPro
+- Coroutines voor movement & acties
+- GitHub versiebeheer
+
+---
+
+## ✍️ Gemaakt door
+
+**Naam:** Raihane Benjilali    
+**School:** Erasmushogeschool
+
+---
+
+Veel succes & veel plezier! 🎉🧀
