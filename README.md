@@ -39,3 +39,4 @@ Hoe minder stappen → hoe beter!
 My Project (2).exe
 
 **Screenshot Level 1:**
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/2b816f3a-f9eb-4de6-8b80-090d95f92c6e" />
