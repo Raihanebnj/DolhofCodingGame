@@ -40,3 +40,57 @@ My Project (2).exe
 
 **Screenshot Level 1:**
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/2b816f3a-f9eb-4de6-8b80-090d95f92c6e" />
+
+**Oplossing Level 1:**
+Forward x3
+Right x1
+Forward x4
+Left x1
+Forward x3
+
+**Screenshot Level 2:**
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/e94261fc-7d49-42f6-967b-dd7b6052497f" />
+
+**Oplossing Level 2:**
+Repeat x4
+Forward x8
+Right x1
+End Repeat
+
+**Screenshot Level 3:**
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/67bbd33e-e690-440e-908b-76ce132f2510" />
+
+**Oplossing Level 3:**
+Forward x10
+Right x1
+Forward x2
+Left x1
+Forward x6
+Right x1
+Forward x5
+Left x1
+Forward x2
+Right x1
+Forward x15
+Right x1
+Repeat x2
+Forward x4
+Right x1
+End Repeat
+Forward x2
+Left x1
+Forward x4
+Left x1
+Forward x2
+Right x1
+Repeat x2
+Forward x8
+Left x1
+End Repeat
+Forward x2
+
+**Kortere oplossing om gewoon te testen level 3:**
+Right x1
+Forward x10
+Left x1
+Forward x10
